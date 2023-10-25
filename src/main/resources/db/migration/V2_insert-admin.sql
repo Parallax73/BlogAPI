@@ -1,0 +1,1 @@
+INSERT INTO Usuarios (nome,senha) values (admin,$2a$12$OhZAd3f/p7bgOexdbE7Vwe2DvvScT7TRCyqY/NbLzFFshjCDKrB2W)
